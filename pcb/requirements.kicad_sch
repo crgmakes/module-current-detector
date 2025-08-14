@@ -50,7 +50,7 @@
 		)
 		(uuid "476feca6-7a92-4664-9f43-fe0060e907d9")
 	)
-	(text_box "PCB:\n2 Layers\nThickness: 1.6mm\nCopper: 1oz\nFinish: HASL\nSoldermask: Purple\nSilkscreen: White\nMin Trace: 6mil\nMin Spacing: 5mil\nMin Drill: 0.25mm\nMin Via: 0.3mm\nMin Via Annular Ring: 0.6mm\n\n"
+	(text_box "PCB:\n4 Layers\nThickness: 1.6mm\nCopper: 1oz\nFinish: HASL\nSoldermask: Purple\nSilkscreen: White\nMin Trace: 6mil\nMin Spacing: 5mil\nMin Drill: 0.25mm\nMin Via: 0.3mm\nMin Via Annular Ring: 0.6mm\n\n"
 		(exclude_from_sim yes)
 		(at 189.992 82.296 0)
 		(size 85.09 56.642)
@@ -75,7 +75,7 @@
 		)
 		(uuid "47ca0da0-9bec-4943-aa47-9af4a8e103f9")
 	)
-	(text_box "BASIC\n\n* Detect AC current up to 30A\n* Output proportional to current\n* Analog output 0 - 3.3VDC\n"
+	(text_box "BASIC\n\n* Detect AC current up to 30A\n* Adjustable gain/sensitivity\n* VOUT proportional to current\n* Linear analog output 0 - 3.3VDC\n* AC direct connect or through cable\n* 10/3 SJTW Max\n"
 		(exclude_from_sim yes)
 		(at 17.78 25.4 0)
 		(size 85.09 55.88)
@@ -150,7 +150,7 @@
 		)
 		(uuid "8fb3beb2-98a0-436e-8428-488a3cacf092")
 	)
-	(text_box "Design Considerations\n\nTBD"
+	(text_box "Design Considerations\n\n* Considerable current on AC side\n* Coupling from AC to DC\n* Transients when AC switched ON/OFF"
 		(exclude_from_sim yes)
 		(at 103.886 82.296 0)
 		(size 85.09 56.515)

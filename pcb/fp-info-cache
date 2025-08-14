@@ -1,4 +1,4 @@
-26156619942783176
+26158375137104200
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -4966,6 +4966,13 @@ CRGM Passive
 BOURNS_3362H
 
 
+0
+3
+3
+CRGM Passive
+Bourns_TC33X_Vertical
+Potentiometer, Bourns, TC33X, Vertical, https://www.bourns.com/pdfs/TC33.pdf
+Potentiometer Bourns TC33X Vertical
 0
 3
 3
