@@ -1,0 +1,189 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0de2bbb1-54aa-4c00-a7c8-8144489ceeea")
+	(paper "A4")
+	(title_block
+		(title "Current Detector")
+		(date "<<release-date>>")
+		(rev "<<tag>>")
+		(comment 1 "<<hash>>")
+	)
+	(lib_symbols)
+	(text "Aquarius Current Detector Module Requirements"
+		(exclude_from_sim no)
+		(at 19.304 15.621 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+				(bold yes)
+				(color 204 102 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "7e34cd7b-f96a-4400-be1d-ff3c48231880")
+	)
+	(text_box "Interfaces:\n* 1 - Analog Out"
+		(exclude_from_sim yes)
+		(at 189.992 25.4 0)
+		(size 85.09 55.88)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "476feca6-7a92-4664-9f43-fe0060e907d9")
+	)
+	(text_box "PCB:\n2 Layers\nThickness: 1.6mm\nCopper: 1oz\nFinish: HASL\nSoldermask: Purple\nSilkscreen: White\nMin Trace: 6mil\nMin Spacing: 5mil\nMin Drill: 0.25mm\nMin Via: 0.3mm\nMin Via Annular Ring: 0.6mm\n\n"
+		(exclude_from_sim yes)
+		(at 189.992 82.296 0)
+		(size 85.09 56.642)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "47ca0da0-9bec-4943-aa47-9af4a8e103f9")
+	)
+	(text_box "BASIC\n\n* Detect AC current up to 30A\n* Output proportional to current\n* Analog output 0 - 3.3VDC\n"
+		(exclude_from_sim yes)
+		(at 17.78 25.4 0)
+		(size 85.09 55.88)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "55e7c3e6-442a-4160-8d55-62a0fa127690")
+	)
+	(text_box "MISC\n\n* All peripherals use JST SH connectors\n* ESD protection for external connectors\n* 4 M3 mounting holes\n* Test points for major signals"
+		(exclude_from_sim yes)
+		(at 17.78 82.296 0)
+		(size 85.09 56.515)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "5f539f10-c0a8-4a0b-8cdb-1f9ef099f85c")
+	)
+	(text_box "Sensors\n\n* AC Current 0 - 30A\n"
+		(exclude_from_sim yes)
+		(at 103.886 25.4 0)
+		(size 85.09 55.88)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "8fb3beb2-98a0-436e-8428-488a3cacf092")
+	)
+	(text_box "Design Considerations\n\nTBD"
+		(exclude_from_sim yes)
+		(at 103.886 82.296 0)
+		(size 85.09 56.515)
+		(margins 2.032 2.032 2.032 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type color)
+			(color 255 229 191 1)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "99e6d9ef-3b4a-46f6-8c0c-3e1f79093826")
+	)
+	(polyline
+		(pts
+			(xy 20.32 22.098) (xy 187.452 22.098)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 204 102 0 1)
+		)
+		(uuid "ea6c2f1d-da6c-40c0-8675-bf6d406d1837")
+	)
+)
