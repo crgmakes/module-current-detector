@@ -40,7 +40,7 @@
         "type": "simple",
         "hoffset": "2.5mm",
         "orientation": "90deg",
-        "text": "Current Detector Module",
+        "text": "Current Sensor Module",
         "anchor": "ml"
     },
     "text2": {
