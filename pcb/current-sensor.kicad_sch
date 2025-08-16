@@ -2145,7 +2145,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 156.21) (xy 81.28 156.21)
+			(xy 72.39 156.21) (xy 76.2 156.21)
 		)
 		(stroke
 			(width 0)
@@ -2973,16 +2973,6 @@
 		)
 		(uuid "28a91ce6-29c6-44a9-9296-5c868228239d")
 	)
-	(label "VREF"
-		(at 76.2 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "351cbe9d-a0c9-405b-875d-94e80d084646")
-	)
 	(label "HALL2"
 		(at 68.58 81.28 0)
 		(effects
@@ -2993,16 +2983,6 @@
 		)
 		(uuid "51558907-15e3-487a-b81c-3d0d7f0d0520")
 	)
-	(label "VREF"
-		(at 73.66 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8040a7f0-be08-4d33-9a24-3be5bf233d7e")
-	)
 	(label "HALL1"
 		(at 69.85 53.34 0)
 		(effects
@@ -3012,6 +2992,50 @@
 			(justify left bottom)
 		)
 		(uuid "b3607fe8-046e-4e0a-a1ec-fb9e8581b285")
+	)
+	(global_label "VREF"
+		(shape output)
+		(at 76.2 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26654548-8e9a-4ce4-b874-e966cf80c752")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.7814 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VREF"
+		(shape input)
+		(at 73.66 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e55e16e7-0326-42ce-b05c-5a409b31586f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 66.0786 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
