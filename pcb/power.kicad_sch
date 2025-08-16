@@ -1084,7 +1084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 45.72 36.83 0)
 			(effects
 				(font

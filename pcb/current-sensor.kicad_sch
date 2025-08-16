@@ -3040,7 +3040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 132.08 54.9148 0)
 			(effects
 				(font
@@ -3199,7 +3199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 81.28 80.3148 0)
 			(effects
 				(font
@@ -3660,7 +3660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 39.116 164.084 90)
 			(effects
 				(font
@@ -4421,7 +4421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 166.37 70.1548 0)
 			(effects
 				(font
@@ -4553,7 +4553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 108.9152 158.75 0)
 			(effects
 				(font
@@ -4834,7 +4834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 86.106 54.356 90)
 			(effects
 				(font
@@ -5572,7 +5572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 193.3448 73.66 0)
 			(effects
 				(font
@@ -5862,7 +5862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 39.116 146.304 90)
 			(effects
 				(font
@@ -5983,7 +5983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 84.836 82.296 90)
 			(effects
 				(font
@@ -6113,7 +6113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 200.406 77.724 90)
 			(effects
 				(font
@@ -6459,7 +6459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 115.57 80.3148 0)
 			(effects
 				(font
@@ -6667,7 +6667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 119.0752 158.75 0)
 			(effects
 				(font
@@ -6763,7 +6763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 31.4452 167.64 0)
 			(effects
 				(font
@@ -6991,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 111.506 75.946 90)
 			(effects
 				(font
@@ -7112,7 +7112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 149.606 80.264 90)
 			(effects
 				(font
@@ -7457,7 +7457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 84.836 36.576 90)
 			(effects
 				(font
@@ -7643,7 +7643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 147.0152 158.75 0)
 			(effects
 				(font
@@ -7989,7 +7989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 141.986 80.264 90)
 			(effects
 				(font
@@ -8110,7 +8110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 82.55 52.3748 0)
 			(effects
 				(font
@@ -8305,7 +8305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 187.706 59.436 90)
 			(effects
 				(font
@@ -8500,7 +8500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 212.09 40.9448 0)
 			(effects
 				(font
@@ -8630,7 +8630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 201.676 36.576 90)
 			(effects
 				(font
