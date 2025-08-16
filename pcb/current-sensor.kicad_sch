@@ -3262,7 +3262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1276-1019-2-ND "
+		(property "Digikey" "1276-1019-2-ND"
 			(at 77.47 81.28 90)
 			(effects
 				(font
@@ -4333,7 +4333,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" " BOURNS"
+		(property "MN" "BOURNS"
 			(at 214.63 35.56 0)
 			(effects
 				(font
@@ -4826,7 +4826,7 @@
 				)
 			)
 		)
-		(property "Value" "4.99K 1%"
+		(property "Value" "4.99K"
 			(at 86.36 50.8 90)
 			(effects
 				(font
@@ -4907,6 +4907,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C163916"
+			(at 86.36 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 86.36 53.34 90)
 			(effects
 				(font
@@ -5080,7 +5089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM03B-SRSS-TBTR-ND "
+		(property "Digikey" "455-SM03B-SRSS-TBTR-ND"
 			(at 247.65 55.88 0)
 			(effects
 				(font
@@ -5966,7 +5975,7 @@
 				)
 			)
 		)
-		(property "Value" "4.99K 1%"
+		(property "Value" "4.99K"
 			(at 85.09 78.74 90)
 			(effects
 				(font
@@ -6047,6 +6056,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C163916"
+			(at 85.09 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 85.09 81.28 90)
 			(effects
 				(font
@@ -8155,7 +8173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1276-1019-2-ND "
+		(property "Digikey" "1276-1019-2-ND"
 			(at 78.74 53.34 90)
 			(effects
 				(font
@@ -8279,7 +8297,7 @@
 				)
 			)
 		)
-		(property "Value" "4.99K 1%"
+		(property "Value" "4.99K"
 			(at 187.96 55.88 90)
 			(effects
 				(font
@@ -8360,6 +8378,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C163916"
+			(at 187.96 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 187.96 58.42 90)
 			(effects
 				(font
