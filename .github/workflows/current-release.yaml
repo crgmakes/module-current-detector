@@ -9,7 +9,6 @@ name: Aquarius-Current-Detector-Module-Release
 on:
   release:
     types: [published]
-  workflow_dispatch:
 
 jobs:
   call-export-pcb:
@@ -17,3 +16,19 @@ jobs:
     with:
       repo-name: module-current-detector
       file-name: current-module
+      aq-version: ${{ github.event.release.tag_name }}
+      aq-hash: $(git rev-parse --short HEAD)
+
+name: Aquarius-Manual
+on:
+  release:
+    types: [published]
+
+jobs:
+  call-export-pcb:
+    uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
+    with:
+      repo-name: module-current-detector
+      file-name: current-module
+      aq-version: v0.0
+      aq-hash: '000000'
