@@ -29,3 +29,4 @@ jobs:
       file-name: current-module
       aq-version: ${{ github.event.release.tag_name }}
       aq-hash: $(git rev-parse --short HEAD)
+      
