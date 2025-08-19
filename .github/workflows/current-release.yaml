@@ -18,8 +18,8 @@ jobs:
     with:
       repo-name: module-current-detector
       file-name: current-module
-      aq-version: v0.0.0
-      aq-hash: '000000'
+      version: v0.0.0
+      hash: '000000'
 
   release:
     if: github.event_name == 'release'
@@ -27,6 +27,6 @@ jobs:
     with:
       repo-name: module-current-detector
       file-name: current-module
-      aq-version: ${{ github.event.release.tag_name }}
-      aq-hash: $(git rev-parse --short HEAD)
+      version: ${{ github.event.release.tag_name }}
+      hash: $(git rev-parse --short HEAD)
       
