@@ -3118,6 +3118,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "1276-1005-2-ND"
+			(at 128.27 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "187-CL10B104KO8NNNC"
+			(at 128.27 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f153dc82-c596-4c51-87fb-f9e623e7ca49")
 		)
@@ -3729,7 +3747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-104ELFTR-ND"
 			(at 38.1 163.83 90)
 			(effects
 				(font
@@ -3738,7 +3756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-104ELF"
 			(at 38.1 163.83 90)
 			(effects
 				(font
@@ -4481,7 +4499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R8BB223"
+		(property "MPN" "CC0603KRX7R8BB224"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -4517,7 +4535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-CC603KRX7R8BB224"
 			(at 162.56 71.12 90)
 			(effects
 				(font
@@ -4526,7 +4544,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106217"
+		(property "LCSC" "C106857"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -4623,6 +4641,24 @@
 			)
 		)
 		(property "LCSC" "C66501"
+			(at 107.95 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1276-1005-2-ND"
+			(at 107.95 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 107.95 154.94 0)
 			(effects
 				(font
@@ -4903,7 +4939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "541-4.99KHTR-ND"
 			(at 86.36 53.34 90)
 			(effects
 				(font
@@ -4912,7 +4948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "71-CRCW0603-4.99K-E3"
 			(at 86.36 53.34 90)
 			(effects
 				(font
@@ -5632,7 +5668,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R8BB223"
+		(property "MPN" "CC0603KRX7R8BB224"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -5668,7 +5704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-CC603KRX7R8BB224"
 			(at 194.31 77.47 90)
 			(effects
 				(font
@@ -5677,7 +5713,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106217"
+		(property "LCSC" "C106857"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -5931,7 +5967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-104ELFTR-ND"
 			(at 38.1 146.05 90)
 			(effects
 				(font
@@ -5940,7 +5976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-104ELF"
 			(at 38.1 146.05 90)
 			(effects
 				(font
@@ -6052,7 +6088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "541-4.99KHTR-ND"
 			(at 85.09 81.28 90)
 			(effects
 				(font
@@ -6061,7 +6097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "71-CRCW0603-4.99K-E3"
 			(at 85.09 81.28 90)
 			(effects
 				(font
@@ -6182,7 +6218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-106ELFTR-ND"
 			(at 199.39 77.47 90)
 			(effects
 				(font
@@ -6191,7 +6227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-106ELF"
 			(at 199.39 77.47 90)
 			(effects
 				(font
@@ -6528,7 +6564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-CC603KRX7R9BB202"
 			(at 111.76 81.28 0)
 			(effects
 				(font
@@ -6537,7 +6573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "311-4098-2-ND"
 			(at 111.76 81.28 0)
 			(effects
 				(font
@@ -6745,6 +6781,24 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "1276-1005-2-ND"
+			(at 118.11 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "187-CL10B104KO8NNNC"
+			(at 118.11 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "041c45c2-c7b2-40f7-b414-d0e2a2fa69a0")
 		)
@@ -6832,7 +6886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10A106MO8NQNC"
 			(at 30.48 163.83 0)
 			(effects
 				(font
@@ -6841,7 +6895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1870-2-ND"
 			(at 30.48 163.83 0)
 			(effects
 				(font
@@ -7060,7 +7114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-304ELFTR-ND"
 			(at 111.76 74.93 90)
 			(effects
 				(font
@@ -7069,7 +7123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-304ELF"
 			(at 111.76 74.93 90)
 			(effects
 				(font
@@ -7181,7 +7235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-104ELFTR-ND"
 			(at 148.59 80.01 90)
 			(effects
 				(font
@@ -7190,7 +7244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-104ELF"
 			(at 148.59 80.01 90)
 			(effects
 				(font
@@ -7526,7 +7580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-304ELFTR-ND"
 			(at 85.09 35.56 90)
 			(effects
 				(font
@@ -7535,7 +7589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-304ELF"
 			(at 85.09 35.56 90)
 			(effects
 				(font
@@ -7703,7 +7757,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R8BB223"
+		(property "MPN" "CC0603KRX7R8BB224"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -7739,7 +7793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-CC603KRX7R8BB224"
 			(at 146.05 154.94 90)
 			(effects
 				(font
@@ -7748,7 +7802,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106217"
+		(property "LCSC" "C106857"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -8058,7 +8112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-105ELFTR-ND"
 			(at 140.97 80.01 90)
 			(effects
 				(font
@@ -8067,7 +8121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-105ELF"
 			(at 140.97 80.01 90)
 			(effects
 				(font
@@ -8374,7 +8428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "541-4.99KHTR-ND"
 			(at 187.96 58.42 90)
 			(effects
 				(font
@@ -8383,7 +8437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "71-CRCW0603-4.99K-E3"
 			(at 187.96 58.42 90)
 			(effects
 				(font
@@ -8560,7 +8614,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R8BB223"
+		(property "MPN" "CC0603KRX7R8BB224"
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -8596,7 +8650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-CC603KRX7R8BB224"
 			(at 208.28 41.91 90)
 			(effects
 				(font
@@ -8605,7 +8659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106217"
+		(property "LCSC" "C106857"
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -8699,7 +8753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-104ELFTR-ND"
 			(at 201.93 35.56 90)
 			(effects
 				(font
@@ -8708,7 +8762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-104ELF"
 			(at 201.93 35.56 90)
 			(effects
 				(font
