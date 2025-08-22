@@ -19,7 +19,7 @@ jobs:
       name: 'Aquarius Current Detector'
       repo-name: module-current-detector
       file-name: current-module
-      version: v0.0.0
+      version: $(date "+%m/%d/%Y @ %H:%M")
       hash: '000000'
 
   release:
