@@ -12,23 +12,20 @@ on:
   workflow_dispatch:
 
 jobs:
+  
   manual:
     if: github.event_name != 'release'
     uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
     with:
       name: 'Aquarius Current Detector'
-      repo-name: module-current-detector
-      file-name: current-module
-      version: $(date "+%Y-%m-%d-%H-%M")
-      hash: '000000'
+      repo-name: 'module-current-detector'
+      file-name: 'current-module'
 
   release:
     if: github.event_name == 'release'
     uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
     with:
       name: 'Aquarius Current Detector'
-      repo-name: module-current-detector
-      file-name: current-module
-      version: ${{ github.event.release.tag_name }}
-      hash: $(git rev-parse --short HEAD)
+      repo-name: 'module-current-detector'
+      file-name: 'current-module'
       
