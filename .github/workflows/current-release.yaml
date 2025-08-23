@@ -12,20 +12,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  
-  manual:
-    if: github.event_name != 'release'
+  call-export-pcb:
     uses: crgmakes/kicad-extras/.github/workflows/crgm-ecad-release.yaml@main
     with:
       name: 'Aquarius Current Detector'
       repo-name: 'module-current-detector'
       file-name: 'current-module'
-
-  release:
-    if: github.event_name == 'release'
-    uses: crgmakes/kicad-extras/.github/workflows/crgm-ecad-release.yaml@main
-    with:
-      name: 'Aquarius Current Detector'
-      repo-name: 'module-current-detector'
-      file-name: 'current-module'
-      
