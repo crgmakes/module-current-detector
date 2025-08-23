@@ -1,4 +1,4 @@
-26161885886929323
+26169065890653640
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -4592,21 +4592,7 @@ Aquarius Name 2mmx11mm
 0
 0
 CRGM Logos
-CRGM Logo 3.5
-
-
-0
-0
-0
-CRGM Logos
-CRGM Logo 5mm
-
-
-0
-0
-0
-CRGM Logos
-CRGM Logo 8mm
+CRGM Logo 7mm
 
 
 0
@@ -4614,6 +4600,20 @@ CRGM Logo 8mm
 0
 CRGM Logos
 CRGM Logo 10mm
+
+
+0
+0
+0
+CRGM Logos
+CRGM Logo 15mm
+
+
+0
+0
+0
+CRGM Logos
+CRGM Logo 20mm
 
 
 0
@@ -4713,6 +4713,34 @@ Open-Source Hardware (OSHW) Logo - Small - Silkscreen{return}{return}Silkscreen 
 CRGM Logos
 OSHW-LOGO-S_COPPER
 Open-Source Hardware (OSHW) Logo - Small - Top Copper{return}{return}Exposed copper logo for open-source hardware designs.{return}{return}Devices using:{return}{return}• OSHW_LOGO
+
+0
+0
+0
+CRGM Logos
+Roxy 3.5mm
+
+
+0
+0
+0
+CRGM Logos
+Roxy 5mm
+
+
+0
+0
+0
+CRGM Logos
+Roxy 6.5mm
+
+
+0
+0
+0
+CRGM Logos
+Roxy 8mm
+
 
 0
 0
