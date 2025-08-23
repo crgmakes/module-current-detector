@@ -5,7 +5,7 @@
 # @date 8/13/25
 # @author cyberreefguru
 # (c) CRG Makes 2025
-name: Aquarius-Current-Detector-Module-Release
+name: Aquarius-Current-Detector-Release
 on:
   release:
     types: [published]
@@ -15,7 +15,7 @@ jobs:
   
   manual:
     if: github.event_name != 'release'
-    uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
+    uses: crgmakes/kicad-extras/.github/workflows/crgm-ecad-release.yaml@main
     with:
       name: 'Aquarius Current Detector'
       repo-name: 'module-current-detector'
@@ -23,7 +23,7 @@ jobs:
 
   release:
     if: github.event_name == 'release'
-    uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
+    uses: crgmakes/kicad-extras/.github/workflows/crgm-ecad-release.yaml@main
     with:
       name: 'Aquarius Current Detector'
       repo-name: 'module-current-detector'
