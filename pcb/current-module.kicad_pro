@@ -506,9 +506,23 @@
         "line_style": 0,
         "name": "AC",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "wire_width": 100
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Analog",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       },
       {
         "bus_width": 12,
@@ -520,7 +534,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "via_diameter": 0.6,
@@ -540,31 +554,23 @@
       },
       {
         "netclass": "Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Power",
         "pattern": "GND"
       },
       {
         "netclass": "AC",
-        "pattern": "Line"
+        "pattern": "*Line*"
       },
       {
         "netclass": "AC",
-        "pattern": "Neutral"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VCC"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VOUT"
+        "pattern": "*Neu*"
       },
       {
         "netclass": "Power",
         "pattern": "VREF"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "*OUT"
       }
     ]
   },
