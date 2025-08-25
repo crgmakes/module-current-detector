@@ -1,4 +1,4 @@
-26170821940924288
+26176111857166447
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2947,6 +2947,13 @@ LED10MM
 2
 2
 CRG Makes
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+CRG Makes
 LTR-303ALS-01
 ambient light sensor, i2c interface, 6-pin chipled package, http://optoelectronics.liteon.com/upload/download/DS86-2013-0004/LTR-303ALS-01_DS_V1.pdf
 ambient light sensor chipled
@@ -5789,6 +5796,13 @@ D_SOD-123F
 2
 2
 CRGM Passive
+D_SOD-323F
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
+0
+2
+2
+CRGM Passive
 D_SOD-523
 http://www.diodes.com/datasheets/ap02001.pdf p.144
 Diode SOD523
@@ -6173,6 +6187,13 @@ SOD-523{return}{return}• Total Size: 1.25mm x 0.85mm{return}• Landing Pad Si
 0
 2
 2
+CRGM Passive
+SOT-23
+SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
 CRGM Passive
 SOT-23-3
 SOT23-3{return}{return}• Total Size: 3mm x 2.5mm{return}• Landing Pad Size: .6mm x .7mm

@@ -3372,7 +3372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "CRG Makes:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 162.56 55.88 0)
 			(effects
 				(font
@@ -3521,7 +3521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "CRGM Passive:SOT-23"
 			(at 58.42 61.976 0)
 			(effects
 				(font
@@ -3984,7 +3984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "CRGM Passive:D_SOD-323F"
 			(at 130.175 80.01 0)
 			(effects
 				(font
@@ -4200,7 +4200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "CRG Makes:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 55.88 153.67 0)
 			(effects
 				(font
@@ -4773,7 +4773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "CRGM Passive:D_SOD-323F"
 			(at 176.53 53.975 0)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "CRG Makes:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 212.09 58.42 0)
 			(effects
 				(font
@@ -6794,7 +6794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "CRGM Passive:SOT-23"
 			(at 58.42 89.916 0)
 			(effects
 				(font
@@ -7759,7 +7759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "CRG Makes:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 109.22 53.34 0)
 			(effects
 				(font
@@ -9025,7 +9025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "CRG Makes:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 109.22 53.34 0)
 			(effects
 				(font

@@ -27784,7 +27784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "CRG Makes:LED_0603_1608Metric"
 			(at 45.72 45.72 0)
 			(effects
 				(font
