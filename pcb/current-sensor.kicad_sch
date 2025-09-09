@@ -3136,6 +3136,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 128.27 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f153dc82-c596-4c51-87fb-f9e623e7ca49")
 		)
@@ -3324,6 +3333,15 @@
 		)
 		(property "LCSC" "C6119849"
 			(at 77.47 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 77.47 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3775,6 +3793,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C3016388"
+			(at 38.1 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 38.1 163.83 90)
 			(effects
 				(font
@@ -4553,6 +4580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 162.56 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "639ef03f-97ee-4fb5-8af7-947739faeb4d")
 		)
@@ -4659,6 +4695,15 @@
 			)
 		)
 		(property "Mouser" "187-CL10B104KO8NNNC"
+			(at 107.95 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 107.95 154.94 0)
 			(effects
 				(font
@@ -5562,6 +5607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 194.31 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71372336-91fa-4af6-9ebf-1b0e09fbc0d8")
 		)
@@ -5843,6 +5897,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 38.1 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e5491ef-e39d-42ad-83c6-428aae5da970")
 		)
@@ -6095,6 +6158,15 @@
 			)
 		)
 		(property "ALT_LCSC_2" "C103217"
+			(at 199.39 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 199.39 77.47 90)
 			(effects
 				(font
@@ -6639,6 +6711,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 118.11 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "041c45c2-c7b2-40f7-b414-d0e2a2fa69a0")
 		)
@@ -6745,6 +6826,15 @@
 			)
 		)
 		(property "LCSC" "C92487"
+			(at 30.48 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 30.48 163.83 0)
 			(effects
 				(font
@@ -6990,6 +7080,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 111.76 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a3d93b6-d9a8-4114-944e-e12935702b82")
 		)
@@ -7103,6 +7202,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C3016388"
+			(at 148.59 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 148.59 80.01 90)
 			(effects
 				(font
@@ -7456,6 +7564,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 85.09 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4598fe57-d755-43b8-8d75-8a85880b01a1")
 		)
@@ -7644,6 +7761,15 @@
 		)
 		(property "LCSC" "C106857"
 			(at 146.05 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 146.05 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7988,6 +8114,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 140.97 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1edfc749-ccaa-4a6e-b294-b4c12d722c6d")
 		)
@@ -8111,6 +8246,15 @@
 		)
 		(property "LCSC" "C6119849"
 			(at 78.74 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 78.74 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8443,6 +8587,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 208.28 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3848f154-4222-4222-b879-de79cb025562")
 		)
@@ -8556,6 +8709,15 @@
 			)
 		)
 		(property "ALT_LCSC" "C3016388"
+			(at 201.93 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 201.93 35.56 90)
 			(effects
 				(font

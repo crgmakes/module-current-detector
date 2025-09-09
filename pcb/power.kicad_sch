@@ -27135,7 +27135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Vishay"
+		(property "MN" "FOJAN"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -27144,7 +27144,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06031K00FKEA"
+		(property "MPN" "FRC0603J102 TS"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -27179,6 +27179,15 @@
 				(font
 					(size 1 1)
 					(color 223 129 255 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
