@@ -19285,7 +19285,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "S"
+			(property "Reference" "SYM"
 				(at 0 -9.398 0)
 				(effects
 					(font
@@ -19328,14 +19328,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "High Voltage_1_0"
@@ -45907,7 +45899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e2bd833-b852-4c12-b884-af766f23f660")
-		(property "Reference" "S3"
+		(property "Reference" "SYM3"
 			(at 102.87 196.088 0)
 			(effects
 				(font
@@ -45982,7 +45974,7 @@
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
-					(reference "S3")
+					(reference "SYM3")
 					(unit 1)
 				)
 			)
@@ -46071,7 +46063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63b9a2ee-cda4-4e5e-a2d1-fa6c223f0b76")
-		(property "Reference" "S4"
+		(property "Reference" "SYM4"
 			(at 114.3 196.088 0)
 			(effects
 				(font
@@ -46146,7 +46138,7 @@
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
-					(reference "S4")
+					(reference "SYM4")
 					(unit 1)
 				)
 			)
@@ -46251,7 +46243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73721837-0a0e-49c6-8a8d-2f66527b6f73")
-		(property "Reference" "S1"
+		(property "Reference" "SYM1"
 			(at 80.01 196.088 0)
 			(effects
 				(font
@@ -46326,7 +46318,7 @@
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
-					(reference "S1")
+					(reference "SYM1")
 					(unit 1)
 				)
 			)
@@ -46488,7 +46480,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a01ebbea-90d2-42bd-b6f0-3f9806fedd87")
-		(property "Reference" "S2"
+		(property "Reference" "SYM2"
 			(at 91.44 196.088 0)
 			(effects
 				(font
@@ -46563,7 +46555,7 @@
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
-					(reference "S2")
+					(reference "SYM2")
 					(unit 1)
 				)
 			)
