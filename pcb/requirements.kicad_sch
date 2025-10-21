@@ -45448,7 +45448,7 @@
 		)
 		(uuid "ef28f1d1-0037-4334-a5a7-d8da0f280a6d")
 	)
-	(text_box "Interfaces:\n* 1 - Analog Out\n* AC Sense"
+	(text_box "Interfaces:\n* 2 - QWICC\n* 2 - Power\n* UDPI"
 		(exclude_from_sim yes)
 		(at 189.992 25.4 0)
 		(size 85.09 55.88)
@@ -45498,7 +45498,7 @@
 		)
 		(uuid "47ca0da0-9bec-4943-aa47-9af4a8e103f9")
 	)
-	(text_box "BASIC\n\n* Detect AC current up to 30A\n* Adjustable gain/sensitivity\n* VOUT proportional to current\n* Linear analog output 0 - 3.3VDC\n* Direct AC connect or through cable\n* Cable - 10/3 SJTW Max"
+	(text_box "BASIC\n\n* Detect AC current up to 30A\n* Adjustable gain/sensitivity\n* VOUT proportional to current\n* Linear analog output 0 - 3.3VDC\n* Direct AC connect or through cable\n* Seesaw Module"
 		(exclude_from_sim yes)
 		(at 17.78 25.4 0)
 		(size 85.09 55.88)

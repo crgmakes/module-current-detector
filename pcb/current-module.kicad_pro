@@ -521,7 +521,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.2,
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -572,6 +572,10 @@
       {
         "netclass": "Analog",
         "pattern": "*OUT"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
       }
     ]
   },
@@ -744,7 +748,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -784,8 +788,16 @@
       "Requirements"
     ],
     [
+      "573c51ea-89ab-4745-b6d8-c69e780cd603",
+      "MCU"
+    ],
+    [
       "750b9b07-db7a-4289-8a61-542df9f7ebc0",
       "Current Sensor"
+    ],
+    [
+      "95bfa604-6248-4846-bc58-916558699f76",
+      "Interfaces"
     ],
     [
       "b155bddb-f000-475c-81a8-ca80fc2346c2",
