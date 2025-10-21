@@ -340,7 +340,7 @@
 					)
 				)
 			)
-			(property "Value" "~"
+			(property "Value" "SolderJumper_2_Bridged"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -348,7 +348,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CRGM Connector:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -526,7 +526,7 @@
 				(offset 1.016)
 				(hide yes)
 			)
-			(exclude_from_sim yes)
+			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
 			(property "Reference" "H"
@@ -543,6 +543,7 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Footprint" ""
@@ -604,7 +605,7 @@
 				)
 			)
 			(symbol "MountingHole_Pad_1_1"
-				(pin input line
+				(pin passive line
 					(at 0 -2.54 90)
 					(length 2.54)
 					(name "1"
@@ -1204,6 +1205,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "943ff2fa-1d88-47fa-908a-05a47fa447eb")
 		)
@@ -1611,6 +1639,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
@@ -2126,6 +2155,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 49.53 85.09 0)
 			(effects
 				(font

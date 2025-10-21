@@ -34,9 +34,10 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "CRGM Connector:SM04B-SRSS-TB"
+			(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 				(at 3.048 -13.716 0)
 				(effects
 					(font
@@ -166,7 +167,7 @@
 						(type none)
 					)
 				)
-				(pin power_out line
+				(pin passive line
 					(at -2.54 0 0)
 					(length 2.54)
 					(name "V3.3"
@@ -220,7 +221,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin passive line
 					(at -2.54 -7.62 0)
 					(length 2.54)
 					(name "V5"
