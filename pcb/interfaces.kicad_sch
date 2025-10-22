@@ -3389,7 +3389,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
 			(at 35.052 54.356 0)
 			(effects
 				(font

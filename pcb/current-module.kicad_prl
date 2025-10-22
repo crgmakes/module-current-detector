@@ -120,15 +120,15 @@
   "project": {
     "files": [
       {
-        "name": "current-module.kicad_pcb",
-        "open": false,
+        "name": "current-module.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 12,
-          "pos_y": 31,
+          "pos_x": 14,
+          "pos_y": 30,
           "size_x": 2544,
-          "size_y": 1338
+          "size_y": 1337
         }
       }
     ]

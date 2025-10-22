@@ -1883,7 +1883,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "FOJAN"
+		(property "MN" "FOJAN "
 			(at 38.1 87.63 0)
 			(effects
 				(font
@@ -1927,6 +1927,15 @@
 				(font
 					(size 1 1)
 					(color 223 129 255 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 38.1 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)

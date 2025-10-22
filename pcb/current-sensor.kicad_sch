@@ -4312,6 +4312,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "25%"
+			(at 214.63 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2c51b04-04c1-49fa-97ec-265c8d351a18")
 		)
@@ -6265,6 +6274,15 @@
 		)
 		(property "LCSC" "C282245"
 			(at 111.76 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 111.76 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)

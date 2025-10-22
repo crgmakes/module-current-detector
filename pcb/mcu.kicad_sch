@@ -3018,7 +3018,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".1uF"
+		(property "Value" "0.1uF"
 			(at 132.08 88.8999 0)
 			(effects
 				(font
@@ -3063,7 +3063,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A105KB8NNNC"
+		(property "MPN" "CL10B104KO8NNNC"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3072,7 +3072,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "LCSC" "C66501"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3091,6 +3091,15 @@
 			)
 		)
 		(property "Mouser" "187-CL10A105KB8NNNC"
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3358,6 +3367,15 @@
 			)
 		)
 		(property "Mouser" "71-CRCW06034K70JNEAC"
+			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 64.77 52.07 0)
 			(effects
 				(font
@@ -3907,6 +3925,15 @@
 			)
 		)
 		(property "LCSC" "C2907166"
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 49.53 52.07 0)
 			(effects
 				(font
