@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_57575525",
+    "visible_layers": "ffffffff_ffffffff_ffffd575_57555525",
     "zone_display_mode": 0
   },
   "git": {
@@ -129,18 +129,6 @@
           "pos_y": 31,
           "size_x": 2544,
           "size_y": 1338
-        }
-      },
-      {
-        "name": "current-module.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 14,
-          "pos_y": 30,
-          "size_x": 2544,
-          "size_y": 1337
         }
       }
     ]
