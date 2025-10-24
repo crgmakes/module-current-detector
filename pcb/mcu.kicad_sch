@@ -2531,7 +2531,7 @@
 		(at 80.01 52.07 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0f5d3a2a-7476-4f56-b473-1807d3affe33")
@@ -2604,7 +2604,7 @@
 		(at 121.92 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "19a89d1b-2eb8-4cb9-a826-ae8c1b50236b")
@@ -2677,7 +2677,7 @@
 		(at 80.01 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "19beea60-2ea0-44cd-9468-9478ff4c5fe6")
@@ -2744,7 +2744,7 @@
 		(at 80.01 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "21dd3313-7602-48e0-b306-91ccdcbd3c2b")
@@ -3081,7 +3081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1276-1860-2-ND"
+		(property "Digikey" "1276-1005-2-ND"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3090,7 +3090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "187-CL10A105KB8NNNC"
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3100,6 +3100,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vr" "16V"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3206,7 +3215,7 @@
 		(at 195.58 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5aeb415b-b223-4f28-9560-58192eb448df")
@@ -3249,6 +3258,33 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 195.58 47.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3693,7 +3729,7 @@
 		(at 121.92 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8a8e931f-a9e5-47cb-8cbd-107d363f327f")
@@ -4040,7 +4076,7 @@
 		(at 121.92 49.53 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "99a0b53a-d92f-4c3c-ba24-945da8e409e4")
@@ -4113,7 +4149,7 @@
 		(at 121.92 46.99 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c842c68e-1e8b-4157-beda-6a98f16e79ac")
@@ -4329,7 +4365,7 @@
 		(at 80.01 46.99 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ded5e391-ccaa-4275-b29d-e95eac07ad8c")
@@ -4396,7 +4432,7 @@
 		(at 121.92 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e26cb28b-1a30-4203-85a3-fec20cee464e")
@@ -4469,7 +4505,7 @@
 		(at 121.92 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e7f51da4-5e61-4d04-80b9-82edf2b51b4c")
