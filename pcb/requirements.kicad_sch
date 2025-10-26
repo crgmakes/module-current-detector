@@ -45712,7 +45712,7 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 78.74 186.69 0)
+		(at 68.58 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -45721,7 +45721,7 @@
 		(fields_autoplaced yes)
 		(uuid "427a67e8-39bb-47e8-9431-df44e1bff056")
 		(property "Reference" "LOGO4"
-			(at 78.74 179.705 0)
+			(at 68.58 179.705 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45730,7 +45730,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 78.74 192.405 0)
+			(at 68.58 192.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45739,7 +45739,7 @@
 			)
 		)
 		(property "Footprint" "Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45748,7 +45748,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45757,7 +45757,7 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45766,7 +45766,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45775,7 +45775,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45784,7 +45784,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 78.74 186.69 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45803,7 +45803,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:Roxy Logo")
-		(at 67.31 186.69 0)
+		(at 57.15 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -45811,7 +45811,7 @@
 		(dnp no)
 		(uuid "4db482de-4284-4df2-9176-bb78a15e343c")
 		(property "Reference" "LOGO2"
-			(at 67.31 193.04 0)
+			(at 57.15 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45820,7 +45820,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45829,7 +45829,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Roxy 3.5mm"
-			(at 67.31 194.818 0)
+			(at 57.15 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45838,7 +45838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45847,7 +45847,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45856,7 +45856,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45865,7 +45865,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45874,7 +45874,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 67.31 186.69 0)
+			(at 57.15 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45893,7 +45893,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Symbols:High Voltage")
-		(at 113.03 186.69 0)
+		(at 102.87 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -45902,7 +45902,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e2bd833-b852-4c12-b884-af766f23f660")
 		(property "Reference" "SYM3"
-			(at 113.03 196.088 0)
+			(at 102.87 196.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45911,7 +45911,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45920,7 +45920,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Symbols:HIGH-VOLTAGE-5MM"
-			(at 114.3 193.802 0)
+			(at 104.14 193.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45929,7 +45929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45938,7 +45938,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45947,7 +45947,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45956,7 +45956,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45965,7 +45965,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 113.03 186.69 0)
+			(at 102.87 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46057,7 +46057,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Symbols:High Voltage")
-		(at 124.46 186.69 0)
+		(at 114.3 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46066,7 +46066,7 @@
 		(fields_autoplaced yes)
 		(uuid "63b9a2ee-cda4-4e5e-a2d1-fa6c223f0b76")
 		(property "Reference" "SYM4"
-			(at 124.46 196.088 0)
+			(at 114.3 196.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46075,7 +46075,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46084,7 +46084,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Symbols:HIGH-VOLTAGE-5MM"
-			(at 125.73 193.802 0)
+			(at 115.57 193.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46093,7 +46093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46102,7 +46102,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46111,7 +46111,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46120,7 +46120,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46129,7 +46129,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 124.46 186.69 0)
+			(at 114.3 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46148,7 +46148,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:CRGM Logo")
-		(at 44.45 186.69 0)
+		(at 34.29 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46156,7 +46156,7 @@
 		(dnp no)
 		(uuid "6ab2c033-d805-4df0-9186-84620545faa8")
 		(property "Reference" "LOGO1"
-			(at 44.45 193.04 0)
+			(at 34.29 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46165,7 +46165,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46174,7 +46174,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:CRGM Logo 7mm"
-			(at 44.45 194.818 0)
+			(at 34.29 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46183,7 +46183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46192,7 +46192,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46201,7 +46201,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46210,7 +46210,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46219,7 +46219,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 44.45 186.69 0)
+			(at 34.29 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46238,7 +46238,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Symbols:High Voltage")
-		(at 90.17 186.69 0)
+		(at 80.01 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46247,7 +46247,7 @@
 		(fields_autoplaced yes)
 		(uuid "73721837-0a0e-49c6-8a8d-2f66527b6f73")
 		(property "Reference" "SYM1"
-			(at 90.17 196.088 0)
+			(at 80.01 196.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46256,7 +46256,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46265,7 +46265,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Symbols:HIGH-VOLTAGE-5MM"
-			(at 91.44 193.802 0)
+			(at 81.28 193.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46274,7 +46274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46283,7 +46283,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46292,7 +46292,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46301,7 +46301,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46310,7 +46310,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 90.17 186.69 0)
+			(at 80.01 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46475,7 +46475,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Symbols:High Voltage")
-		(at 101.6 186.69 0)
+		(at 91.44 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46484,7 +46484,7 @@
 		(fields_autoplaced yes)
 		(uuid "a01ebbea-90d2-42bd-b6f0-3f9806fedd87")
 		(property "Reference" "SYM2"
-			(at 101.6 196.088 0)
+			(at 91.44 196.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46493,7 +46493,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46502,7 +46502,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Symbols:HIGH-VOLTAGE-5MM"
-			(at 102.87 193.802 0)
+			(at 92.71 193.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46511,7 +46511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46520,7 +46520,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46529,7 +46529,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46538,7 +46538,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46547,7 +46547,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 101.6 186.69 0)
+			(at 91.44 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46566,7 +46566,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:Roxy Logo")
-		(at 55.88 186.69 0)
+		(at 45.72 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46574,7 +46574,7 @@
 		(dnp no)
 		(uuid "b62737f5-a513-405c-a018-24b5bd04019f")
 		(property "Reference" "LOGO5"
-			(at 55.88 193.04 0)
+			(at 45.72 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46583,7 +46583,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46592,7 +46592,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Roxy 6.5mm"
-			(at 55.88 194.818 0)
+			(at 45.72 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46601,7 +46601,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46610,7 +46610,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46619,7 +46619,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46628,7 +46628,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46637,7 +46637,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 55.88 186.69 0)
+			(at 45.72 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46649,106 +46649,6 @@
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
 					(reference "LOGO5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CRGM Logos:Aquarius Logo")
-		(at 33.02 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7b75457-febd-441f-b4e6-d42437a29d5d")
-		(property "Reference" "LOGO6"
-			(at 33.274 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 30.734 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Logos:Aquarius Logo 5mm"
-			(at 34.544 189.738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.734 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 30.734 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 33.02 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 33.02 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 33.02 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 33.02 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "current-module"
-				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
-					(reference "LOGO6")
 					(unit 1)
 				)
 			)
