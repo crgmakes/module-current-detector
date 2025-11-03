@@ -19282,6 +19282,115 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CRGM Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+				(at 0 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -9.652 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 -10.668 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "CRGM Symbols:High Voltage"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -45299,23 +45408,29 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Mechanical:MountingHole"
-			(pin_names
-				(offset 1.016)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
 			)
-			(exclude_from_sim yes)
-			(in_bom no)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "H"
-				(at 0 5.08 0)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
-			(property "Value" "MountingHole"
-				(at 0 3.175 0)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -45331,7 +45446,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -45340,7 +45455,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Mounting Hole without connection"
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 				(at 0 0 0)
 				(effects
 					(font
@@ -45349,7 +45464,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "mounting hole"
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(effects
 					(font
@@ -45358,21 +45473,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "MountingHole*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
 					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.27)
 					(stroke
-						(width 1.27)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -45380,12 +45487,32 @@
 					)
 				)
 			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(embedded_fonts no)
 		)
 	)
 	(rectangle
-		(start 142.875 165.735)
-		(end 174.625 194.31)
+		(start 142.24 165.735)
+		(end 174.625 195.58)
 		(stroke
 			(width 0.254)
 			(type dash)
@@ -45438,7 +45565,7 @@
 	)
 	(text "Mechanical"
 		(exclude_from_sim no)
-		(at 144.526 193.548 0)
+		(at 142.24 195.58 0)
 		(effects
 			(font
 				(size 2 2)
@@ -45598,6 +45725,104 @@
 			(justify left top)
 		)
 		(uuid "99e6d9ef-3b4a-46f6-8c0c-3e1f79093826")
+	)
+	(junction
+		(at 163.83 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24bb3559-6646-4ecc-9457-3e35b9998456")
+	)
+	(junction
+		(at 163.83 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78d24b22-0208-454a-8d7f-e5187218c783")
+	)
+	(junction
+		(at 163.83 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a214e55f-a410-4597-b6eb-f2d6393945fe")
+	)
+	(wire
+		(pts
+			(xy 163.83 175.26) (xy 163.83 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "200990a0-a628-4a5a-91b9-bbc1acdbe48c")
+	)
+	(wire
+		(pts
+			(xy 157.48 175.26) (xy 163.83 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53daf8d8-08cb-4180-96a1-021765863913")
+	)
+	(wire
+		(pts
+			(xy 163.83 170.18) (xy 163.83 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5defe06c-8d2b-49f1-a9fd-19792dc95358")
+	)
+	(wire
+		(pts
+			(xy 157.48 180.34) (xy 163.83 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6127887f-1d9e-40ea-939a-e61fd1b32f23")
+	)
+	(wire
+		(pts
+			(xy 163.83 185.42) (xy 163.83 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75a42aca-f01c-47d2-b46c-cc4848c58821")
+	)
+	(wire
+		(pts
+			(xy 157.48 170.18) (xy 163.83 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8388164a-b56d-48c6-8d6b-19326ba5a107")
+	)
+	(wire
+		(pts
+			(xy 157.48 185.42) (xy 163.83 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3e0cb58-43fc-4c68-bb65-a82c76e1ae98")
+	)
+	(wire
+		(pts
+			(xy 163.83 180.34) (xy 163.83 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c516bad9-4e38-479b-a433-bf19fb448a32")
 	)
 	(polyline
 		(pts
@@ -45983,8 +46208,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 148.59 175.26 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 154.94 175.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -45992,7 +46217,7 @@
 		(dnp no)
 		(uuid "561d2f1d-0298-4d79-b79f-74952bedff95")
 		(property "Reference" "H2"
-			(at 151.13 175.26 0)
+			(at 154.94 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46001,7 +46226,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 151.13 176.5299 0)
+			(at 156.2099 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46011,7 +46236,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 148.59 175.26 0)
+			(at 167.894 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46020,7 +46245,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 175.26 0)
+			(at 164.592 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46028,8 +46253,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 148.59 175.26 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 165.608 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46038,13 +46263,16 @@
 			)
 		)
 		(property "MPN" ""
-			(at 148.59 175.26 0)
+			(at 154.94 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "c09c6c8e-286c-42c6-91d3-7d98c25bf243")
 		)
 		(instances
 			(project "current-module"
@@ -46328,8 +46556,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 148.59 185.42 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 154.94 185.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46337,7 +46565,7 @@
 		(dnp no)
 		(uuid "78252704-2976-4010-95ce-fa9f1268b6c4")
 		(property "Reference" "H4"
-			(at 151.13 185.42 0)
+			(at 154.94 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46346,7 +46574,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 151.13 186.6899 0)
+			(at 156.2099 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46356,7 +46584,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 148.59 185.42 0)
+			(at 167.894 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46365,7 +46593,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 185.42 0)
+			(at 164.592 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46373,8 +46601,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 148.59 185.42 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 165.608 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46383,13 +46611,16 @@
 			)
 		)
 		(property "MPN" ""
-			(at 148.59 185.42 0)
+			(at 154.94 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "f3773fdf-22ee-46ae-8a88-27582e61581e")
 		)
 		(instances
 			(project "current-module"
@@ -46401,8 +46632,101 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 148.59 170.18 0)
+		(lib_id "power:GND")
+		(at 163.83 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98fe004a-e474-42cd-ba54-0536b97b8079")
+		(property "Reference" "#PWR030"
+			(at 163.83 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 163.83 192.0931 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 163.83 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c463327-c6ca-4711-a269-57319fcae163")
+		)
+		(instances
+			(project "current-module"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 154.94 170.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46410,7 +46734,7 @@
 		(dnp no)
 		(uuid "992d6a3f-1301-47e1-b331-6d70fc03d6f6")
 		(property "Reference" "H1"
-			(at 151.13 170.18 0)
+			(at 154.94 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46419,7 +46743,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 151.13 171.4499 0)
+			(at 156.2099 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46429,7 +46753,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 148.59 170.18 0)
+			(at 167.894 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46438,7 +46762,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 170.18 0)
+			(at 164.592 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46446,8 +46770,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 148.59 170.18 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 165.608 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46456,13 +46780,43 @@
 			)
 		)
 		(property "MPN" ""
-			(at 148.59 170.18 0)
+			(at 154.94 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(property "LCSC" ""
+			(at 154.94 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 154.94 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 154.94 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e670774b-3512-4205-a238-b5a3a92fa45f")
 		)
 		(instances
 			(project "current-module"
@@ -46655,8 +47009,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 148.59 180.34 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 154.94 180.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -46664,7 +47018,7 @@
 		(dnp no)
 		(uuid "f7c3c45b-a117-47d2-a711-20e53ec5f347")
 		(property "Reference" "H3"
-			(at 151.13 180.34 0)
+			(at 154.94 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46673,7 +47027,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 151.13 181.6099 0)
+			(at 156.2099 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46683,7 +47037,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 148.59 180.34 0)
+			(at 167.894 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46692,7 +47046,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 180.34 0)
+			(at 164.592 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46700,8 +47054,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 148.59 180.34 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 165.608 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46710,13 +47064,16 @@
 			)
 		)
 		(property "MPN" ""
-			(at 148.59 180.34 0)
+			(at 154.94 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "38bbeb18-c456-45bc-ac52-501a31f1c55e")
 		)
 		(instances
 			(project "current-module"
