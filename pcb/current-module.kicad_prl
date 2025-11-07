@@ -19,9 +19,9 @@
       "dimensions": true,
       "footprints": true,
       "graphics": true,
-      "keepouts": false,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
+      "otherItems": true,
       "pads": false,
       "text": true,
       "tracks": true,
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_57555521",
+    "visible_layers": "ffffffff_ffffffff_ffffd575_575555a5",
     "zone_display_mode": 0
   },
   "git": {
@@ -125,10 +125,22 @@
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 8,
-          "pos_y": 32,
+          "pos_x": 10,
+          "pos_y": 31,
           "size_x": 2544,
           "size_y": 1338
+        }
+      },
+      {
+        "name": "current-module.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 8,
+          "pos_y": 31,
+          "size_x": 2544,
+          "size_y": 1337
         }
       }
     ]
