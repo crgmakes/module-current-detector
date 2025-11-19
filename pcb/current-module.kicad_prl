@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_575555a5",
+    "visible_layers": "ffffffff_ffffffff_ffffd57d_575f5525",
     "zone_display_mode": 0
   },
   "git": {
@@ -120,13 +120,25 @@
   "project": {
     "files": [
       {
-        "name": "current-module.kicad_pcb",
+        "name": "current-module.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 10,
-          "pos_y": 31,
+          "pos_x": 436,
+          "pos_y": 25,
+          "size_x": 2544,
+          "size_y": 1337
+        }
+      },
+      {
+        "name": "current-module.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 60,
+          "pos_y": 25,
           "size_x": 2544,
           "size_y": 1338
         }
