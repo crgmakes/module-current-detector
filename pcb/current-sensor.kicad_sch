@@ -4382,7 +4382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
+		(property "Description" "25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -4391,7 +4391,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Yageo"
+		(property "MN" "Samsung"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -4400,7 +4400,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R7BB224"
+		(property "MPN" "CL10B224KA8NNNC"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -4445,7 +4445,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106249"
+		(property "LCSC" "C21120"
 			(at 162.56 71.12 0)
 			(effects
 				(font
@@ -5314,7 +5314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
+		(property "Description" "25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -5323,7 +5323,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Yageo"
+		(property "MN" "Samsung"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -5332,7 +5332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R7BB224"
+		(property "MPN" "CL10B224KA8NNNC"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -5377,7 +5377,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106249"
+		(property "LCSC" "C21120"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -7483,7 +7483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
+		(property "Description" "25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -7492,7 +7492,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Yageo"
+		(property "MN" "Samsung"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -7501,7 +7501,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R7BB224"
+		(property "MPN" "CL10B224KA8NNNC"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -7546,7 +7546,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106249"
+		(property "LCSC" "C21120"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -8302,7 +8302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "16V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
+		(property "Description" "25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC"
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -8311,7 +8311,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Yageo"
+		(property "MN" "Samsung"
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -8320,7 +8320,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603KRX7R7BB224"
+		(property "MPN" "CL10B224KA8NNNC"
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -8365,7 +8365,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C106249"
+		(property "LCSC" "C21120"
 			(at 208.28 41.91 0)
 			(effects
 				(font
