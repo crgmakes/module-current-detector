@@ -599,6 +599,293 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CRGM Passive:PESD3V3S1BL"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -1.524 1.524 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "PESD3V3S1BL"
+				(at -5.08 -3.556 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "CRGM Passive:DFN1006-2"
+				(at 0.254 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+				(at -0.254 -9.652 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+				(at 1.524 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "621-DESD3V3S1BL-7B"
+				(at 1.524 -32.512 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+				(at 0.762 -34.544 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5563754"
+				(at -0.254 -36.576 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PESD3V3S1BL_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3445 -1.6043) (xy -0.3573 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy -0.0101 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy 0.3778 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 0.0101) (xy -0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -0.0101) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -1.27) (xy -0.3445 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 0.0101) (xy 0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 -0.0101) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.3778 1.6835) (xy 0.3981 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 0)
+					(name "K1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 0)
+					(name "K2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "CRGM Passive:R_Potentiometer_US"
 			(pin_names
 				(offset 1.016)
@@ -1967,6 +2254,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 60.96) (xy 233.68 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05da01cc-9ff0-4e8d-97c6-5483a25fa2a9")
+	)
+	(wire
+		(pts
 			(xy 123.19 74.93) (xy 123.19 55.88)
 		)
 		(stroke
@@ -2234,6 +2531,16 @@
 			(type default)
 		)
 		(uuid "66f662a2-4d65-4714-bde7-7dc3ea4a6012")
+	)
+	(wire
+		(pts
+			(xy 233.68 68.58) (xy 233.68 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "689745b3-a2c5-4a64-888c-78238f332458")
 	)
 	(wire
 		(pts
@@ -4985,6 +5292,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 233.68 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "69e22efb-bec7-420f-94a2-cfa1394b5d17")
+		(property "Reference" "#PWR031"
+			(at 233.68 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 233.68 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4b22801-c577-42f9-a2ec-5169f9c02a93")
+		)
+		(instances
+			(project "current-module"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/750b9b07-db7a-4289-8a61-542df9f7ebc0"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 107.95 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6177,6 +6549,123 @@
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/750b9b07-db7a-4289-8a61-542df9f7ebc0"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Passive:PESD3V3S1BL")
+		(at 233.68 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "974dad62-5bd1-4952-9ba9-872e51c1ad89")
+		(property "Reference" "D7"
+			(at 236.728 67.564 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PESD3V3S1BL"
+			(at 237.236 71.12 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Passive:DFN1006-2"
+			(at 238.76 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+			(at 243.332 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+			(at 252.73 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5563754"
+			(at 270.256 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+			(at 268.224 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "621-DESD3V3S1BL-7B"
+			(at 266.192 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "FUXINSEMI"
+			(at 233.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LESD8D3.3CAT5G"
+			(at 233.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a47d66af-1c66-4e40-974a-f22f94e44c80")
+		)
+		(pin "2"
+			(uuid "c5ee254b-014e-4c57-b2be-812c92509cb5")
+		)
+		(instances
+			(project "current-module"
+				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/750b9b07-db7a-4289-8a61-542df9f7ebc0"
+					(reference "D7")
 					(unit 1)
 				)
 			)
