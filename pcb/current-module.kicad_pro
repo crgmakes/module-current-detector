@@ -735,6 +735,12 @@
           "label": "Vr",
           "name": "Vr",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
         }
       ],
       "filter_string": "",
