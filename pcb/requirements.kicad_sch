@@ -46071,7 +46071,7 @@
 		)
 		(uuid "ef28f1d1-0037-4334-a5a7-d8da0f280a6d")
 	)
-	(text_box "Interfaces:\n* 2 - QWICC\n* 2 - Power\n* UDPI"
+	(text_box "Interfaces:\n* 2 - QWICC\n* UDPI"
 		(exclude_from_sim yes)
 		(at 189.992 25.4 0)
 		(size 85.09 55.88)
