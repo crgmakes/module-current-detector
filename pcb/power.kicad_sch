@@ -3528,7 +3528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 49.53 87.63 0)
 			(effects
 				(font
@@ -3538,7 +3538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10watt 1.0Kohms 1%"
 			(at 49.53 87.63 0)
 			(effects
 				(font

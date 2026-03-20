@@ -7281,7 +7281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 30.48 163.83 0)
 			(effects
 				(font
