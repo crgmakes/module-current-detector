@@ -1064,7 +1064,7 @@
 			(in_bom no)
 			(on_board yes)
 			(property "Reference" "H"
-				(at 0 6.35 0)
+				(at 0 4.064 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1072,11 +1072,12 @@
 				)
 			)
 			(property "Value" "MountingHole_Pad"
-				(at 0 4.445 0)
+				(at 0 -14.478 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Footprint" ""
@@ -1089,7 +1090,7 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at 0 0 0)
+				(at 0 -12.954 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1098,7 +1099,7 @@
 				)
 			)
 			(property "Description" "Mounting Hole with connection"
-				(at 0 0 0)
+				(at 0 -10.922 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1138,7 +1139,7 @@
 				)
 			)
 			(symbol "MountingHole_Pad_1_1"
-				(pin input line
+				(pin passive line
 					(at 0 -2.54 90)
 					(length 2.54)
 					(name "1"
@@ -1793,15 +1794,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 49.53 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "b47920f4-2921-4b09-9578-846122b56eea")
 		)
@@ -1890,15 +1882,6 @@
 		)
 		(property "Mouser" ""
 			(at 93.98 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 93.98 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2086,15 +2069,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 54.61 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "75e12551-1fcc-4163-bf50-c9e9b34f6f76")
 		)
@@ -2185,15 +2159,6 @@
 		)
 		(property "Mouser" ""
 			(at 113.03 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 113.03 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,15 +2388,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 93.98 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6fc869a3-c0ed-4546-b60f-a70c32ed9e30")
 		)
@@ -2550,15 +2506,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 49.53 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 49.53 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2690,15 +2637,6 @@
 			)
 		)
 		(property "Package" ""
-			(at 46.99 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 46.99 40.64 0)
 			(effects
 				(font
@@ -3067,15 +3005,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 64.77 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ba3f3fff-3e99-4e10-bab7-30db32927db6")
 		)
@@ -3329,15 +3258,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 68.58 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "666ab19c-1a8b-4c18-a5e8-2b7981d17bcf")
 		)
@@ -3459,15 +3379,6 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 33.02 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 33.02 40.64 0)
 			(effects
 				(font
@@ -3604,15 +3515,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 49.53 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2e18b235-d763-440e-abc8-8a1b0fd45a54")
 		)
@@ -3703,15 +3605,6 @@
 		)
 		(property "Mouser" ""
 			(at 113.03 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 113.03 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3840,15 +3733,6 @@
 			)
 		)
 		(property "Package" ""
-			(at 39.37 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 39.37 40.64 0)
 			(effects
 				(font

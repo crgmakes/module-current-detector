@@ -45594,7 +45594,7 @@
 		)
 		(uuid "ef28f1d1-0037-4334-a5a7-d8da0f280a6d")
 	)
-	(text_box "Interfaces:\n* 2 - QWICC\n* UDPI"
+	(text_box "Interfaces:\n* 2 - QWICC\n* UDPI\n* Serial"
 		(exclude_from_sim yes)
 		(at 189.992 25.4 0)
 		(size 85.09 55.88)
@@ -45719,7 +45719,7 @@
 		)
 		(uuid "8fb3beb2-98a0-436e-8428-488a3cacf092")
 	)
-	(text_box "Design Considerations\n\n* Considerable current on AC side\n* Possible coupling from AC to DC\n* Creepeage between AC traces\n* Transients when AC switched ON/OFF"
+	(text_box "Design Considerations\n\n* Considerable current on AC side\n* Possible coupling from AC to DC\n* Creepage between AC traces\n* Transients when AC switched ON/OFF"
 		(exclude_from_sim yes)
 		(at 103.886 82.296 0)
 		(size 85.09 56.515)
@@ -45944,15 +45944,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 21.59 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -46044,15 +46035,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 80.01 186.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -46135,15 +46117,6 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 67.31 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 67.31 186.69 0)
 			(effects
 				(font
@@ -46243,15 +46216,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 114.3 186.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -46318,15 +46282,6 @@
 		)
 		(property "MPN" ""
 			(at 154.94 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 154.94 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46428,15 +46383,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 125.73 186.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -46519,15 +46465,6 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 44.45 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 44.45 186.69 0)
 			(effects
 				(font
@@ -46627,15 +46564,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 91.44 186.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -46702,15 +46630,6 @@
 		)
 		(property "MPN" ""
 			(at 154.94 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 154.94 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46914,15 +46833,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 154.94 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e670774b-3512-4205-a238-b5a3a92fa45f")
 		)
@@ -47017,15 +46927,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 102.87 186.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -47108,15 +47009,6 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 55.88 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 55.88 186.69 0)
 			(effects
 				(font
@@ -47225,15 +47117,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 33.02 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/286c1f37-b285-4c3f-bd6d-061a220fab98"
@@ -47300,15 +47183,6 @@
 		)
 		(property "MPN" ""
 			(at 154.94 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 154.94 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
