@@ -3058,6 +3058,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 205.74 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c2992bb-8069-45e0-ae3c-ce264f64debd")
 		)
@@ -3150,6 +3159,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 72.39 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1403203b-1174-4d3c-8ac8-debf1a7af6dd")
 		)
@@ -3163,7 +3181,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "JP3")
 					(unit 1)
@@ -3226,6 +3244,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 80.01 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94581201-5148-4ffa-b62e-ad6f90fc7b06")
 		)
@@ -3236,7 +3263,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP12")
 					(unit 1)
@@ -3336,7 +3363,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0110")
 					(unit 1)
@@ -3392,6 +3419,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 89.154 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 80.01 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3466,6 +3502,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 80.01 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "366c30dc-b53b-4c7f-8577-1ee5c7bfbd72")
 		)
@@ -3476,7 +3521,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP10")
 					(unit 1)
@@ -3558,6 +3603,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 175.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 175.26 40.64 0)
 			(effects
 				(font
@@ -3691,6 +3745,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 234.95 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79400a06-6060-459b-9196-6c7f0141cc8f")
 		)
@@ -3704,7 +3767,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "D3")
 					(unit 1)
@@ -3792,6 +3855,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "507932c9-9321-483a-b8e8-0ffea2912bfd")
 		)
@@ -3871,7 +3943,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0103")
 					(unit 1)
@@ -3997,6 +4069,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56404e46-7f0e-449e-a7e5-ba8803620b02")
 		)
@@ -4010,7 +4091,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "C12")
 					(unit 1)
@@ -4131,6 +4212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 252.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bd59e64-0ecf-48b1-ab52-d9ad2b652cab")
 		)
@@ -4210,7 +4300,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0105")
 					(unit 1)
@@ -4300,6 +4390,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 170.18 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01c4ad8f-dd37-49f9-b21e-5eeb59511477")
 		)
@@ -4310,7 +4409,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP7")
 					(unit 1)
@@ -4392,7 +4491,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "FOJAN "
+		(property "MN" "FOJAN"
 			(at 64.77 52.07 0)
 			(effects
 				(font
@@ -4428,6 +4527,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b8cc3e1e-a259-4eea-b77f-23789bdb3044")
 		)
@@ -4441,7 +4549,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "R14")
 					(unit 1)
@@ -4513,7 +4621,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0107")
 					(unit 1)
@@ -4678,7 +4786,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0101")
 					(unit 1)
@@ -4741,6 +4849,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6ca1a28-70cd-481c-992a-d50b23cbc0f3")
 		)
@@ -4751,7 +4868,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP9")
 					(unit 1)
@@ -4822,7 +4939,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0102")
 					(unit 1)
@@ -4943,6 +5060,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 234.95 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbbc70b3-bcd3-471d-b3ce-6ea6b5beb1a9")
 		)
@@ -4956,7 +5082,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "R12")
 					(unit 1)
@@ -5020,7 +5146,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "FOJAN "
+		(property "MN" "FOJAN"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -5074,6 +5200,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a4e9c38-c314-4741-932d-c5a8db72f4ac")
 		)
@@ -5087,7 +5222,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "R13")
 					(unit 1)
@@ -5159,7 +5294,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0104")
 					(unit 1)
@@ -5222,6 +5357,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38668a9d-85f6-496a-8243-9f93ae79957e")
 		)
@@ -5232,7 +5376,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP11")
 					(unit 1)
@@ -5320,6 +5464,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 49.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c112db90-bd75-4fe8-abd9-d0ea94cedff6")
 		)
@@ -5390,6 +5543,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d95c1991-9d63-4520-b08f-ad69066091e7")
 		)
@@ -5400,7 +5562,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP14")
 					(unit 1)
@@ -5472,7 +5634,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0106")
 					(unit 1)
@@ -5637,7 +5799,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0108")
 					(unit 1)
@@ -5693,6 +5855,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 89.154 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 80.01 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5767,6 +5938,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89e08914-579e-4e44-8dd2-5825bd8578e7")
 		)
@@ -5777,7 +5957,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "TP13")
 					(unit 1)
@@ -5885,6 +6065,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 100.33 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "21"
 			(uuid "53cfca43-8c6f-46e9-92dc-2f3fa3423be8")
 		)
@@ -5955,7 +6144,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "U4")
 					(unit 1)
@@ -6076,6 +6265,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 252.73 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a70b128e-cb91-4576-ad17-d77a84dde4e2")
 		)
@@ -6171,6 +6369,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 77.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca9a9c3b-7390-4439-9dd3-a4e710f36b2f")
 		)
@@ -6184,7 +6391,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "JP4")
 					(unit 1)
@@ -6255,7 +6462,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "current-module"
 				(path "/a8149920-3b7f-4d7d-8e96-7a0b38870225/573c51ea-89ab-4745-b6d8-c69e780cd603"
 					(reference "#PWR0109")
 					(unit 1)
@@ -6336,6 +6543,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 187.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 187.96 48.26 0)
 			(effects
 				(font
