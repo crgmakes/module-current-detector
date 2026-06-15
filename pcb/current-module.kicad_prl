@@ -32,7 +32,6 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
-      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -118,32 +117,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "current-module.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 71,
-          "pos_y": 25,
-          "size_x": 2544,
-          "size_y": 1338
-        }
-      },
-      {
-        "name": "current-module.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 87,
-          "pos_y": 25,
-          "size_x": 2544,
-          "size_y": 1337
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
