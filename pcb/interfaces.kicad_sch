@@ -1377,15 +1377,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 36.83 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "da000d18-3de9-4fa8-b734-71511360dc08")
 		)
@@ -1507,15 +1498,6 @@
 			)
 		)
 		(property "MPN" "LESD8D3.3CAT5G"
-			(at 67.31 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
 			(at 67.31 63.5 0)
 			(effects
 				(font
@@ -1837,15 +1819,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 36.83 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a372230e-fde4-49bd-8b4b-508511b72ded")
 		)
@@ -2052,15 +2025,6 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 62.23 48.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 62.23 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2313,15 +2277,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" ""
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c78814a3-2882-4dc8-affb-6a3c87c89b0a")
 		)
@@ -2451,15 +2406,6 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 64.77 48.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" ""
-			(at 64.77 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
