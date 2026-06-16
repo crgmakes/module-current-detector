@@ -3058,6 +3058,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 205.74 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c2992bb-8069-45e0-ae3c-ce264f64debd")
 		)
@@ -3150,6 +3159,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 72.39 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1403203b-1174-4d3c-8ac8-debf1a7af6dd")
 		)
@@ -3219,6 +3237,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 89.154 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 80.01 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3399,6 +3426,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 80.01 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2c4dbe8-2e48-4f86-8986-a1a6e42f223d")
 		)
@@ -3459,6 +3495,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 89.154 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 80.01 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,6 +3603,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 175.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 175.26 40.64 0)
 			(effects
 				(font
@@ -3691,6 +3745,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 234.95 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79400a06-6060-459b-9196-6c7f0141cc8f")
 		)
@@ -3784,6 +3847,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 64.77 43.18 0)
 			(effects
 				(font
@@ -3925,7 +3997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF 16V X7R ±10% 0603 Multilayer Ceramic Capacitor"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -3989,6 +4061,15 @@
 			)
 		)
 		(property "Vr" "16V"
+			(at 128.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -4065,7 +4146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10watt 1.0Kohms 1%"
+		(property "Description" "Thick Film Resistor - SMD 1/10watt 10Mohms 5%"
 			(at 252.73 41.91 0)
 			(effects
 				(font
@@ -4123,6 +4204,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 252.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 252.73 41.91 0)
 			(effects
 				(font
@@ -4300,6 +4390,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 170.18 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01c4ad8f-dd37-49f9-b21e-5eeb59511477")
 		)
@@ -4365,7 +4464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistor - SMD 1/10watt 4.7Kohms 5%"
 			(at 64.77 52.07 0)
 			(effects
 				(font
@@ -4420,6 +4519,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 64.77 52.07 0)
 			(effects
 				(font
@@ -4741,6 +4849,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6ca1a28-70cd-481c-992a-d50b23cbc0f3")
 		)
@@ -4877,7 +4994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10watt 1.0Kohms 1%"
+		(property "Description" "Thick Film Resistor - SMD 1/10watt 10Mohms 5%"
 			(at 234.95 41.91 0)
 			(effects
 				(font
@@ -4935,6 +5052,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 234.95 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 234.95 41.91 0)
 			(effects
 				(font
@@ -5011,7 +5137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistor - SMD 1/10watt 4.7Kohms 5%"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -5066,6 +5192,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -5222,6 +5357,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 121.92 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38668a9d-85f6-496a-8243-9f93ae79957e")
 		)
@@ -5320,6 +5464,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 49.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c112db90-bd75-4fe8-abd9-d0ea94cedff6")
 		)
@@ -5383,6 +5536,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 112.776 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 121.92 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5700,6 +5862,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 80.01 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddc24950-51ce-4171-91de-738491e3b724")
 		)
@@ -5760,6 +5931,15 @@
 		)
 		(property "Description" "Test Point D1.0mm"
 			(at 112.776 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
+			(at 121.92 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,6 +6057,15 @@
 			)
 		)
 		(property "LCSC" "C507118"
+			(at 100.33 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 100.33 62.23 0)
 			(effects
 				(font
@@ -6076,6 +6265,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" ""
+			(at 252.73 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a70b128e-cb91-4576-ad17-d77a84dde4e2")
 		)
@@ -6163,6 +6361,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 77.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 77.47 76.2 0)
 			(effects
 				(font
@@ -6336,6 +6543,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 187.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" ""
 			(at 187.96 48.26 0)
 			(effects
 				(font
