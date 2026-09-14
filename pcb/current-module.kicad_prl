@@ -47,10 +47,11 @@
       "zones",
       "drc_warnings",
       "drc_exclusions",
+      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_57555521",
+    "visible_layers": "00000000_00000000_00000002_02000025",
     "zone_display_mode": 0
   },
   "git": {
@@ -127,11 +128,11 @@
         "open": false,
         "window": {
           "display": 0,
-          "maximized": false,
+          "maximized": true,
           "pos_x": 4,
           "pos_y": 30,
           "size_x": 2544,
-          "size_y": 1338
+          "size_y": 1282
         }
       }
     ]

@@ -52,8 +52,8 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 2.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -63,7 +63,7 @@
           "min_clearance": 0.25,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -268,7 +268,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "<<tag>>"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -866,16 +866,16 @@
       {
         "filename": "current-module.kicad_sch",
         "name": "current-module",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "a8149920-3b7f-4d7d-8e96-7a0b38870225"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D2,SYM5-8",
     "variants": []
   },
   "sheets": [
     [
       "a8149920-3b7f-4d7d-8e96-7a0b38870225",
-      "Root"
+      "current-module"
     ],
     [
       "286c1f37-b285-4c3f-bd6d-061a220fab98",
