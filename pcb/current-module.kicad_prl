@@ -124,18 +124,6 @@
   "project": {
     "files": [
       {
-        "name": "current-module.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 4,
-          "pos_y": 30,
-          "size_x": 2544,
-          "size_y": 1282
-        }
-      },
-      {
         "name": "current-module.kicad_sch",
         "open": false,
         "window": {
@@ -145,6 +133,18 @@
           "pos_y": 182,
           "size_x": 2560,
           "size_y": 1289
+        }
+      },
+      {
+        "name": "current-module.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 4,
+          "pos_y": 30,
+          "size_x": 2544,
+          "size_y": 1282
         }
       }
     ]
