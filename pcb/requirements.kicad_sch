@@ -19795,7 +19795,7 @@
 		)
 		(uuid "ef28f1d1-0037-4334-a5a7-d8da0f280a6d")
 	)
-	(text_box "Interfaces:\n* 2 - QWICC\n* Programming Port\n* Serial\n* Status Indicator\n* Sense Indicator"
+	(text_box "Interfaces:\n* 2 - QWICC\n* Programming Port (SWD)\n* Serial\n"
 		(exclude_from_sim yes)
 		(at 189.992 25.4 0)
 		(size 85.09 55.88)
@@ -19845,10 +19845,10 @@
 		)
 		(uuid "47ca0da0-9bec-4943-aa47-9af4a8e103f9")
 	)
-	(text_box "BASIC\n\n* STM32C0 Microcontroller\n* Detect AC current up to 30A AC\n* Adjustable gain/sensitivity\n* VOUT proportional to current\n* Linear analog output 0 - 3.3VDC\n* Direct AC connect or through cable\n* Seesaw Module"
+	(text_box "BASIC\n\n* STM32C0 Processor\n* 48MHz Crystal\n* Adafruit Seesaw Protocol\n* One Current Sensor (30A AC)\n* Optional Pull Ups for I2C\n* I2C Address Selection (2-bits)\n* Status LED"
 		(exclude_from_sim yes)
 		(at 17.78 25.4 0)
-		(size 85.09 55.88)
+		(size 85.09 56.9984)
 		(margins 2.032 2.032 2.032 2.032)
 		(stroke
 			(width 0.254)
@@ -19895,7 +19895,7 @@
 		)
 		(uuid "5f539f10-c0a8-4a0b-8cdb-1f9ef099f85c")
 	)
-	(text_box "Sensors\n\n* AC Current 0 - 30A\n"
+	(text_box "Current Sensors\n\n* AC Current 0 - 30A\n* Adjustable gain/sensitivity\n* VOUT proportional to current\n* Linear analog output 0 - 3.3VDC\n* Direct AC connect or through cable\n* Sense LED\n"
 		(exclude_from_sim yes)
 		(at 103.886 25.4 0)
 		(size 85.09 55.88)
