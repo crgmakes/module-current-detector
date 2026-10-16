@@ -3571,7 +3571,7 @@
 	)
 	(text "PA0=TX\nPA1=RX"
 		(exclude_from_sim no)
-		(at 141.224 62.23 0)
+		(at 143.51 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3677,12 +3677,24 @@
 		(uuid "32f4f559-ced8-41dc-a504-9bcc685ae414")
 	)
 	(no_connect
+		(at 132.08 78.74)
+		(uuid "52c09f3a-b19c-4b4e-86f8-006163a62d2c")
+	)
+	(no_connect
 		(at 97.79 88.9)
 		(uuid "65a2ae05-2777-4707-a33f-1b05bb05ed80")
 	)
 	(no_connect
+		(at 132.08 73.66)
+		(uuid "69bac97c-b864-4616-ae71-d5e491dbba27")
+	)
+	(no_connect
 		(at 97.79 86.36)
 		(uuid "aa50b33b-6756-4caf-8d73-13d365ee314a")
+	)
+	(no_connect
+		(at 132.08 76.2)
+		(uuid "d016cbe8-60f1-42e3-865c-54be2c2f7f6b")
 	)
 	(no_connect
 		(at 125.73 81.28)
@@ -4429,29 +4441,6 @@
 			)
 		)
 	)
-	(global_label "IO3"
-		(shape output)
-		(at 132.08 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "359b4dec-79b8-4f2a-abd1-f88398a7cd0c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.21 76.2 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "SWCLK"
 		(shape input)
 		(at 257.81 48.26 0)
@@ -4541,52 +4530,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "IO4"
-		(shape output)
-		(at 132.08 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5f7f57f0-6d43-45dd-8db9-9387f44dcaf0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.21 78.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "IO2"
-		(shape output)
-		(at 132.08 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9a98b107-007c-492e-9c2b-75bbe92800c9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.21 73.66 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)

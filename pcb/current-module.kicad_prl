@@ -51,7 +51,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_0200002d",
+    "visible_layers": "00000000_00000000_00000000_02000033",
     "zone_display_mode": 0
   },
   "git": {
@@ -125,7 +125,7 @@
     "files": [
       {
         "name": "current-module.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
