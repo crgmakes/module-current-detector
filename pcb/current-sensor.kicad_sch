@@ -3279,7 +3279,7 @@
 		(uuid "4add41ee-0112-451a-b185-20bc1b42f5e4")
 	)
 	(label "HALL2"
-		(at 60.96 78.74 0)
+		(at 59.69 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3783,6 +3783,17 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 67.31 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC1" "C106215"
 			(at 67.31 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -9690,6 +9701,17 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 69.85 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC1" "C106215"
 			(at 69.85 50.8 90)
 			(hide yes)
 			(show_name no)

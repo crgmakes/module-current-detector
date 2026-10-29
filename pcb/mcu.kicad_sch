@@ -5712,6 +5712,17 @@
 				)
 			)
 		)
+		(property "LCSC1" "C282071"
+			(at 90.17 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "60416371-0b98-4c5e-b195-fbe8edfd86e4")
 		)
@@ -8656,6 +8667,17 @@
 			)
 		)
 		(property "WVDC" ""
+			(at 67.31 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC1" "C282071"
 			(at 67.31 48.26 90)
 			(hide yes)
 			(show_name no)

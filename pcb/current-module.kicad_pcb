@@ -17991,6 +17991,19 @@
 				)
 			)
 		)
+		(property "LCSC1" "C106215"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "432a5a05-5d98-4129-a1e9-ee5f83fe1b5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/750b9b07-db7a-4289-8a61-542df9f7ebc0/10cc7a87-a129-4603-a7c5-683a31d88812")
 		(sheetname "/Current Sensor/")
@@ -18267,6 +18280,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "553cc74f-1c3d-47f2-bfc5-c59f62497267")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC1" "C106215"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2e3357f-794d-4e2e-8210-ecd9c4bc6835")
 			(effects
 				(font
 					(size 1 1)
@@ -39593,6 +39619,19 @@
 				)
 			)
 		)
+		(property "LCSC1" "C282071"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af668210-e3db-4908-8453-a7350858a97c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/573c51ea-89ab-4745-b6d8-c69e780cd603/afe17938-46e5-4f96-bd2e-e8dc41356242")
 		(sheetname "/MCU/")
@@ -39843,6 +39882,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba74f236-c1dd-498f-82dd-15fef98abdf4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC1" "C282071"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee45f71a-7e5a-40c9-bea1-67fbff43878e")
 			(effects
 				(font
 					(size 1 1)
